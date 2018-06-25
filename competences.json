@@ -1,0 +1,72 @@
+[
+    {
+        "index": 5,
+        "skills": {
+          "name": "HTML5",
+          "level": "expert"
+      }
+    },
+    {
+        "index": 3,
+        "skills": {
+          "name": "CSS3",
+          "level": "expert"
+      }
+    },
+    {
+        "index": 6,
+        "skills": {
+          "name": "Javascript",
+          "level": "debutant"
+      }
+    },
+    {
+        "index": 2,
+        "skills": {
+          "name": "Node JS",
+          "level": "debutant"
+      }
+    },
+    {
+        "index": 4,
+        "skills": {
+          "name": "Photoshop",
+          "level": "intermediaire"
+      }
+    },
+    {
+        "index": 2,
+        "skills": {
+          "name": "WordPress",
+          "level": "intermediaire"
+      }
+    },
+    {
+        "index": 1,
+        "skills": {
+          "name": "PHP",
+          "level": "debutant"
+      }
+    },
+    {
+        "index": 1,
+        "skills": {
+            "name": "Python",
+            "level": "debutant"
+        }
+    },
+    {
+        "index": 4,
+        "skills": {
+            "name": "Graphisme",
+            "level": "intermediaire"
+        }
+    },
+    {
+        "index": 1,
+        "skills": {
+            "name": "Gestion de projet",
+            "level": "debutant"
+        } 
+    }
+  ]
