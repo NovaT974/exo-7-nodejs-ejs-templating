@@ -17,42 +17,42 @@
         "index": 6,
         "skills": {
           "name": "Javascript",
-          "level": "Debutant"
+          "level": "Débutant"
       }
     },
     {
         "index": 2,
         "skills": {
           "name": "Node JS",
-          "level": "Debutant"
+          "level": "Débutant"
       }
     },
     {
         "index": 4,
         "skills": {
           "name": "Photoshop",
-          "level": "Intermediaire"
+          "level": "Intermédiaire"
       }
     },
     {
         "index": 2,
         "skills": {
           "name": "WordPress",
-          "level": "Intermediaire"
+          "level": "Intermédiaire"
       }
     },
     {
         "index": 1,
         "skills": {
           "name": "PHP",
-          "level": "Debutant"
+          "level": "Débutant"
       }
     },
     {
         "index": 1,
         "skills": {
             "name": "Python",
-            "level": "Debutant"
+            "level": "Débutant"
         }
     },
     {
@@ -66,7 +66,7 @@
         "index": 1,
         "skills": {
             "name": "Gestion de projet",
-            "level": "Debutant"
+            "level": "Débutant"
         } 
     }
   ]

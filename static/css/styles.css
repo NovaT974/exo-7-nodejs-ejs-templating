@@ -1,0 +1,10 @@
+body {
+    font-size: 18px;
+    font-family: 'Rubik', sans-serif;
+}
+
+.level_color{
+    float: right;
+    position: relative;
+    bottom: 30px;
+}
