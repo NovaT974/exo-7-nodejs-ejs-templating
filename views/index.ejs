@@ -9,25 +9,20 @@
                     <div id= "mySkills" class="mt-5">
                         <ul class="list-group">
                             <% 
-                            
                                 competences.sort(function (a, b) {
                                     return b.index - a.index;
                                   });
-                            
                             %>
                             <% for (var i = 0; i < competences.length; i++) { %>
                                  <li class="list-group-item liste_competences">
                                 <h3> <%= competences[i].skills.name %> </h3>  
                                 <p class="level_color">  
                                     <% for (var j = 0; j < competences[i].index; j++) { %>
-                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star text-warning"></i>
                                     <% } %>
                                 </p>
 
-                            </li>              
-                                
-
-                           
+                            </li>                         
                <% } %>
                         </ul>
                     </div>
