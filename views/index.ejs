@@ -5,10 +5,28 @@
         <div class="container">
             <div class="row">
                 <section class="col-md-12 mx-auto">
-                    <h2 class="text-info text-center">- Compétences -</h2>
+                    <h2 class="text-info text-center mt-5">- Compétences -</h2>
                     <div id= "mySkills" class="mt-5">
                         <ul class="list-group">
-                            
+                            <% 
+                            function trierList (listComp) {
+                                listComp.sort(function (a, b) {
+                                    return b.index - a.index;
+                                  });
+                            }
+                            %>
+                            <% for (var i = 0; i < competences.length; i++) {
+                                
+                                
+                             %>
+                            <li class="list-group-item liste_competences"> 
+                                <%= competences[i].skills.name %>  
+                                <p class="level_color">  
+                                    <%= competences[i].skills.level %>
+                                </p>
+                            </li>
+                
+               <% } %>
                         </ul>
                     </div>
                 </section>
